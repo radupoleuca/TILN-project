@@ -1,0 +1,18 @@
+[
+    {
+        "end": 18,
+        "start": 14,
+        "text": "1956",
+        "timex-value": "1956",
+        "type": "DATE",
+        "value": "1956"
+    },
+    {
+        "end": 299,
+        "start": 280,
+        "text": "nearly twenty years",
+        "timex-value": "P20Y",
+        "type": "DURATION",
+        "value": "P20Y"
+    }
+]

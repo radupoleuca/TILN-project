@@ -1,0 +1,116 @@
+body {
+    background-color: lightblue;
+}
+
+
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 0;
+}
+
+hr {
+    margin-bottom: 30px;
+    width: 80%;
+}
+
+.intro  {
+    text-align: justify;
+    margin-right: 120px;
+    margin-left: 120px;
+}
+
+label {
+    width: 200px;
+    height: 30px;
+    margin-left: 120px;
+
+}
+
+#container{
+    margin-right: 120px;
+    margin-left: 120px;
+	
+}
+
+#srch {
+    margin-top: 20px;
+    width: 60%;
+    height: 30px;
+    margin-left: 120px;
+}
+
+#submit{
+    background-color: #4CAF50;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    color: white;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+#descriere{
+    margin-top: 40px;
+    margin-right: 130px;
+    margin-left: 130px;
+    border: 1px solid red;
+    min-height: 100px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#temporale{
+    margin-top: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid red;
+    min-height: 60px;
+    max-width: 220px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#buton{
+	margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#csvfile{
+	background-color: darkgreen;
+	border: none;
+	color: white;
+	padding: 10px 20px;
+	cursor: pointer;
+	font-size: 15px;
+}
+
+.arata{
+    visibility: hidden;
+}
+
+#paragraf{
+    text-indent: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.indicatii{
+    text-indent: 80px;
+	font-size: 18px;
+}
+
+a{
+	text-decoration: none;
+}
